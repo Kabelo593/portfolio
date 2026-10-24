@@ -1,3 +1,3 @@
-# portfolio
-My Portffolio - Kabelo Manyama"(2F's)
-
+# Kabelo Manyama Portfolio
+For Transnet application
+kabelomanyama57@gmail.com
